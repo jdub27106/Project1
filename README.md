@@ -39,7 +39,6 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 
 Filebeat watches for log files and locations while collecting log events. Metricbeat records metric and statistical data from the operating system (OS) and from other services running on the server.
 
-- _TODO: 
 | Name       | Function   | IP Address | Operating System |
 |------------|------------|------------|------------------|
 | Jump Box   | Gateway    | 10.0.0.5   | Linux            |
